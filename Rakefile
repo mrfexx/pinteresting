@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Pinteresting::Application.load_tasks
+Festivalplan::Application.load_tasks
